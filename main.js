@@ -1,13 +1,13 @@
 let userAgent = navigator.userAgent;
 let browserName;
 if (userAgent.match(/edg/i)) {
-    browserName = "edge";
+  browserName = "edge";
 } else if (userAgent.match(/chrome|chromium|crios/i)) {
-    browserName = "chrome";
+  browserName = "chrome";
 } else if (userAgent.match(/firefox|fxios/i)) {
-    browserName = "firefox";
+  browserName = "firefox";
 } else if (userAgent.match(/safari/i)) {
-    browserName = "safari";
+  browserName = "safari";
 } else {
   browserName = "No browser detection";
 }
