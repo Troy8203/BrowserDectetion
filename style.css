@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    width: 80%;
+
+    display: flex;
+    /* este es en X */
+    justify-content: space-evenly;
+    /* este es en Y */
+    align-items: center;
+    padding: 1rem;
+
+    border-radius: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.img-logo {
+    width: 15em;
+    filter: grayscale(100%);
+}
