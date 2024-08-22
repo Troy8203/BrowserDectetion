@@ -29,7 +29,7 @@ Browser Detection es una aplicación web sencilla diseñada para identificar el 
 
 ## Instalación
 
-El sitio está disponible en producción y se puede acceder a través del siguiente enlace: [Browser Detection](https://troy8203.github.io/BrowserDetection/).
+El sitio está disponible en producción y se puede acceder a través del siguiente enlace: [Browser Detection](https://troy8203.github.io/BrowserDectetion/).
 
 ### Ejecución Local
 
